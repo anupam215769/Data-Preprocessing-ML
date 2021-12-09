@@ -8,6 +8,8 @@ Data preprocessing is a process of preparing the raw data and making it suitable
 
 <a href="https://colab.research.google.com/github/anupam215769/Data-Preprocessing-ML/blob/main/Data%20Preprocessing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
+>Don't forget to add Data.csv file in colab. Otherwise it won't work.
+
 ## Step 1 - Importing the libraries
 
 In order to perform data preprocessing using Python, we need to import some predefined Python libraries. These libraries are used to perform some specific jobs. There are three specific libraries that we will use for data preprocessing, which are:
