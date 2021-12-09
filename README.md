@@ -180,6 +180,11 @@ https://numpy.org/doc/stable/
 
 https://pandas.pydata.org/docs/
 
+
+## Related Repositories
+
+### [Regression](https://github.com/anupam215769/Regression-ML)
+
 ## Credit
 
 **Coded By**
