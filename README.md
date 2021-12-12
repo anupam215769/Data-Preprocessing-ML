@@ -185,6 +185,10 @@ https://pandas.pydata.org/docs/
 
 ### [Regression](https://github.com/anupam215769/Regression-ML)
 
+### [Classification](https://github.com/anupam215769/Classification-ML)
+
+### [Clustering](https://github.com/anupam215769/Clustering-ML)
+
 ## Credit
 
 **Coded By**
