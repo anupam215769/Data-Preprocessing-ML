@@ -183,11 +183,16 @@ https://pandas.pydata.org/docs/
 
 ## Related Repositories
 
+
 ### [Regression](https://github.com/anupam215769/Regression-ML)
 
 ### [Classification](https://github.com/anupam215769/Classification-ML)
 
 ### [Clustering](https://github.com/anupam215769/Clustering-ML)
+
+### [Association Rule Learning](https://github.com/anupam215769/Association-Rule-Learning-ML)
+
+### [Reinforcement Learning](https://github.com/anupam215769/Reinforcement-Learning-ML)
 
 ## Credit
 
